@@ -1,4 +1,4 @@
-# MODULE 10 CHALLENGE : Forecasting Net Profit
+# MODULE 11 CHALLENGE : Forecasting Net Profit
 
 For this challenge we are acting as a growth analyst for MercadoLibre. We have been tasked with analyzing the company's financial and user data. We want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock. In this repository we will produce a jupyter notebook that contains our data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Including visual depictions of seasonality, an evaluation of how the company's stock price correlates to its google seach traffic, and plot a forecast for the company's future revenue.
 
