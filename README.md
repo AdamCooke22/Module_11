@@ -1,6 +1,6 @@
-# MODULE 10 CHALLENGE : Crypto Investments
+# MODULE 10 CHALLENGE : Forecasting Net Profit
 
-
+For this challenge we are acting as a growth analyst for MercadoLibre. We have been tasked with analyzing the company's financial and user data. We want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock. In this repository we will produce a jupyter notebook that contains our data preparation, analysis, and visualizations for all the time series data that the company needs to understand. Including visual depictions of seasonality, an evaluation of how the company's stock price correlates to its google seach traffic, and plot a forecast for the company's future revenue.
 
 ---
 
@@ -38,7 +38,7 @@ import numpy as np
 
 ## Usage
 
-To use the Crypto Clustering application file simply clone the repository and open the forecasting_net_prophet.ipynb file in google colab.
+To use the prophet forecasting application file simply clone the repository and open the forecasting_net_prophet.ipynb file in google colab.
 
 Upon opening the file you will have the option to run the whole note book and that will provide you with all of the calculations, evaluations, and visualizations for the analysis of the forecasting data. Some screenshots of that in action can be seen below via this link
 
